@@ -12,10 +12,10 @@ Also make sure that you have the bot set up in the [Discord Developer Portal](ht
 
 # Features
 This bot has one command which is `/log` which has multiple inputs them being
-> Name
-> Location
-> Finder
-> Timestamp
+> Name,
+> Location,
+> Finder,
+> Timestamp,
 > Image
 
 Which are logged into your webhook (If available) and/or the database.db file (Which doesn't work as far as i know, sorry).
