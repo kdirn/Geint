@@ -6,7 +6,7 @@ Intelligence discord bot made only for educational and potentially roleplay purp
 To set this bot up for yourself clone this repo to any directory you want and add to the .env file your bot's token and your webhook's URL.
 
 Once you've done that just make sure you have everything at requirements.txt installed via pip like so.
-`pip install discord.py python-dotenv aiohttp`
+`pip install discord.py python-dotenv aiohttp` or `pipx install discord.py python-dotenv aiohttp`
 
 Also make sure that you have the bot set up in the [Discord Developer Portal](https://discord.com/developers/home) if you intend on hosting it yourself
 
