@@ -3,7 +3,7 @@
 Intelligence discord bot made only for educational and potentially roleplay purpose. Use at your own risk
 
 # Setup
-To set this bot up for yourself clone this repo to any directory you want and add to the .env file your bot's token and your webhook's URL.
+To set this bot up for yourself clone this repo to any directory you want and add your bot's token and your webhook's URL to the .env file.
 
 Once you've done that just make sure you have everything at requirements.txt installed via pip like so.
 `pip install discord.py python-dotenv aiohttp` or `pipx install discord.py python-dotenv aiohttp`
@@ -19,5 +19,3 @@ This bot has one command which is `/log` which has multiple inputs them being
 > Image
 
 Which are logged into your webhook (If available) and/or the database.db file (Which doesn't work as far as i know, sorry).
-
-SaphStamp.
