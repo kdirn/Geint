@@ -16,6 +16,7 @@ This bot has one command which is `/log` which has multiple inputs them being
 > Location,
 > Finder,
 > Timestamp,
-> Image
+> Image,
+> Note
 
 Which are logged into your webhook (If available) and/or the database.db file (Which doesn't work as far as i know, sorry).
